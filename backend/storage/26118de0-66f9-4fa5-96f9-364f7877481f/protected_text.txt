@@ -1,0 +1,64 @@
+ 
+Undergraduate 
+ 
+ 
+Summary 
+ 
+Motivated Computer Science (AI & ML) student with a CGPA of 8.84, currently developing problem-solving skills 
+through Data Structures and Algorithms practice. Experienced in C/C++, Python, and Java with hands-on academic 
+projects including a faculty LMS system. Seeking an opportunity to apply programming and analytical skills through a 
+challenging internship. 
+ 
+ 
+Education 
+ 
+B. Tech – Computer Science and Engineering (AI & ML) 
+ Institute of Technology,
+ 
+Expected Graduation: 2028 
+CGPA: 8.84 / 10 
+ 
+Technical Skills 
+ 
+Programming 
+      C++, Python 
+ 
+ 
+Projects 
+Core Areas 
+Data Structures and Algorithms 
+(currently 
+practicing), 
+Machine 
+Learning , deep learning ,Currently 
+working on NLP and RAG  
+Tool/Technologies 
+Git (basic), VS Code 
+ 
+ 
+On going Privacy-Preserving AI Agent for PII Detection, Anonymization and Secure RAG 
+ 
+ A privacy-aware AI agent that receives user documents or text, detects and classifies PII using a hybrid Regex + 
+Transformer NER approach 
+ 
+calculates privacy risk, selectively anonymizes sensitive information, stores and processes only the protected 
+representation for RAG-based question answering, uses an LLM to generate responses 
+ 
+Faculty LMS 
+ 
+Built a faculty LMS to manage course materials, academic resources, and content distribution 
+ 
+Implemented functionalities for uploading, organizing, and accessing educational content. 
+ 
+Designed backend logic for user management and system operations 
+ 
+ 
+Coding Practice 
+LeetCode 
+ 
+Regularly solving Data Structures and Algorithms problem and Practicing  topics like arrays, strings, Recursion 
+Person_001
+[EMAIL]
+**********1089
+[LOCATION]
+[LOCATION]

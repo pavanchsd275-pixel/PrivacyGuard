@@ -1,0 +1,93 @@
+ 
+Undergraduate 
+ 
+ 
+Summary 
+ 
+Motivated Computer Science (
+) student with a CGPA of 8.84, currently developing problem-solving skills 
+through 
+ and 
+ practice. Experienced in 
+, Python, and Java with hands-on academic 
+projects including a faculty
+ system. Seeking an opportunity to apply programming and analytical skills through a 
+challenging internship. 
+ 
+ 
+Education 
+ 
+B. Tech – Computer Science and Engineering (
+) 
+, Chennai 
+Expected Graduation: 2028 
+CGPA: 8.84 / 10 
+ 
+Technical Skills 
+ 
+Programming 
+      C++, Python 
+ 
+ 
+Projects 
+Core Areas 
+ and 
+ 
+(currently 
+practicing), 
+ 
+Learning , deep learning ,Currently 
+working on NLP and 
+  
+Tool/Technologies 
+Git (basic), VS Code 
+ 
+ 
+On going 
+ Agent for 
+ 
+ 
+ A privacy-aware AI agent that receives user documents or text, detects and classifies 
+ using a hybrid Regex + 
+Transformer 
+ approach 
+ 
+calculates privacy risk, selectively anonymizes sensitive information, stores and processes only the protected 
+representation for 
+-based question answering, uses an LLM to ge
+ate responses 
+ 
+Faculty 
+ 
+ 
+Built a faculty
+ to manage course materials, academic resources, and content distribution 
+ 
+Implemented functionalities for uploading, organizing, and accessing educational content. 
+ 
+Designed backend logic for user management and system operations 
+ 
+ 
+ 
+LeetCode 
+ 
+Regularly solving 
+ and 
+ problem and Practicing  topics like arrays, strings, Recursion 
+Person_001
+[EMAIL]
+**********1089
+[ORGANIZATION]
+[ORGANIZATION]
+[ORGANIZATION]
+[ORGANIZATION]
+[ORGANIZATION]
+Person_002
+Person_002
+Person_002
+[ORGANIZATION]
+[ORGANIZATION]
+Person_003
+[ORGANIZATION]
+[ORGANIZATION]
+[ORGANIZATION]
